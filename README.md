@@ -19,7 +19,7 @@ Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhe
 ### Você também me encontra em:
 
 <div style="display: inline">
-<a href="www.linkedin.com/in/cristiane-lima-7b94aa334">
+<a href="https://br.linkedin.com/in/cristiane-lima-7b94aa334">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
