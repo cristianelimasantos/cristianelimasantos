@@ -1,10 +1,10 @@
 ## Olá, meu nome é Cristiane!
 
-Sou uma **Analista de Dados** com foco em Finanças.
+Sou uma **Analista de Dados** com expertise em Finanças.
 
-Apaixonada por cachorros e dança!
+Apaixonada por cachorros, dança e trilhas!
 
-Atualmente estou mais focada na formação Data Analytics, ampliando meus conhecimentos em Python e SQL.
+Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhecimentos em Python e SQL.
 
 <div style="display: inline">
   
@@ -19,7 +19,7 @@ Atualmente estou mais focada na formação Data Analytics, ampliando meus conhec
 ### Você também me encontra em:
 
 <div style="display: inline">
-<a href="www.linkedin.com/in/cristiane-lima9">
+<a href="www.linkedin.com/in/cristiane-lima-7b94aa334">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
