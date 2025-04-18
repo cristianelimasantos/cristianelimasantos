@@ -1,6 +1,6 @@
 ## Olá, meu nome é Cristiane!
 
-Sou uma **Analista de Dados** com expertise em Finanças.
+Sou **Analista de Dados** com expertise em Finanças.
 
 Apaixonada por cachorros, dança e trilhas!
 
@@ -23,7 +23,7 @@ Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhe
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://medium.com/@crislsantos0">
+<a href="https://medium.com/@crislsantos0/projeto-redu%C3%A7%C3%A3o-no-custo-de-plano-de-sa%C3%BAde-f46e33e1d991">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
           
