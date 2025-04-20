@@ -23,7 +23,7 @@ Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhe
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://@crislsantos0.medium.com/">
+<a href="https://medium.com/@crislsantos0/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
           
