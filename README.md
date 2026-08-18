@@ -1,8 +1,6 @@
 ## Olá, meu nome é Cristiane!
 
-Sou **Analista de Dados** com expertise em Finanças.
-
-Apaixonada por dados, cachorros, dança e trilhas!
+Sou apaixonada por dados, cachorros, dança e trilhas!
 
 Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhecimentos em Python e SQL.
 
