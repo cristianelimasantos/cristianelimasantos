@@ -19,8 +19,6 @@ Aqui você encontra os projetos que desenvolvo durante essa jornada:
 - 🚗 **Análise da Carteira de Seguros Auto (SUSEP AUTOSEG)**
 SQL Server · T-SQL · Power BI · DAX
 
-## 📫 Abaixo o meu LinkedIn:
-[LinkedIn](https://www.linkedin.com/in/cristiane-lima9)
 
 <div style="display: inline">
   
