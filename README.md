@@ -1,4 +1,4 @@
-# Oá, eu sou a Cristiane! 👋
+# Olá, eu sou a Cristiane!
 
 Sou apaixonada por dados, cachorros, dança e trilhas! 🐶💃🥾
 
