@@ -1,8 +1,26 @@
-## Olá, meu nome é Cristiane!
+# Oá, eu sou a Cristiane! 👋
 
-Sou apaixonada por dados, cachorros, dança e trilhas!
+Sou apaixonada por dados, cachorros, dança e trilhas! 🐶💃🥾
 
-Atualmente, estou mais focada na formação Data Analytics, ampliando meus conhecimentos em Python e SQL.
+Tenho mais de 15 anos de experiência em análise financeira e Controladoria,
+e hoje estou em transição para **Data Analytics e BI**. Gosto de transformar
+números em histórias que ajudam a tomar decisões melhores.
+
+Atualmente estou focada na formação em Data Analytics, ampliando meus
+conhecimentos em **Python** e **SQL**, e explorando **machine learning**
+em projetos práticos.
+
+## 🎯 O que busco
+Oportunidades como Analista de Dados ou Analista de BI.
+
+## 📂 Projetos
+Aqui você encontra os projetos que desenvolvo durante essa jornada:
+- 🍷 **Wine Quality**: classificação da qualidade de vinhos com Python (Tech Challenge, pós-graduação)
+- 🚗 **Análise da Carteira de Seguros Auto (SUSEP AUTOSEG)**
+SQL Server · T-SQL · Power BI · DAX
+
+## 📫 Abaixo o meu LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/cristiane-lima9)
 
 <div style="display: inline">
   
